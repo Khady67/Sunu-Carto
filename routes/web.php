@@ -18,7 +18,7 @@ Route::get('/', function () {
 })->name('accueil');
 
 Route::get('/Réseaux Mobiles', function () {
-    return view('pages/réseauxMobiles');
+    return view('pages/rm');
 })->name('réseaux_mobiles');
 
 Route::get('/FM-TV', function () {

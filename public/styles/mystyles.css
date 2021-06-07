@@ -1,0 +1,29 @@
+.fakeimg {
+    height: 200px;
+    background: #aaa;
+  }
+  #mapid{
+    height: 100%;
+    z-index: 3;
+    border: 0px solid #f0f0f0; 
+   
+  }
+  footer{
+    margin-top: auto;
+  } 
+  .nav-item {
+  padding-right: 0px;
+  } 
+  .nav-link {
+    padding: auto;
+    } 
+  .dcarto{
+    text-align: center;
+    padding-right: 0px;
+    font-style: italic;
+  }
+  
+  
+  
+  
+  
